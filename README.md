@@ -1,3 +1,2 @@
 # CICDexample
-test.
-test
+Example
